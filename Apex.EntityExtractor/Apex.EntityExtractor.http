@@ -1,0 +1,6 @@
+@Apex.EntityExtractor_HostAddress = http://localhost:5069
+
+GET {{Apex.EntityExtractor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
